@@ -38,7 +38,7 @@ function gotPoses(results)
 }
 
 function draw() {
-background('#969A97');
+background('#8B0000');
 
   document.getElementById("square_side").innerHTML = "Width And Height of a Square will be = " + difference +"px";
   fill('#F90093');
